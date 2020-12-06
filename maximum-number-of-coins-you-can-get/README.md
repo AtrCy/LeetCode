@@ -1,4 +1,4 @@
-<h2>unknown-problem</h2><h3>Medium</h3><hr><div><p>There are 3n&nbsp;piles of coins of&nbsp;varying size, you and your friends will take piles of coins as follows:</p>
+<h2>1561. Maximum Number of Coins You Can Get</h2><h3>Medium</h3><hr><div><p>There are 3n&nbsp;piles of coins of&nbsp;varying size, you and your friends will take piles of coins as follows:</p>
 
 <ul>
 	<li>In each step, you will choose <strong>any&nbsp;</strong>3 piles of coins (not necessarily consecutive).</li>
